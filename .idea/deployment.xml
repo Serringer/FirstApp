@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Skole web apps">
+    <serverData>
+      <paths name="Skole web apps">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Apps/FirstApp" local="$PROJECT_DIR$" web="/Apps/FirstApp" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

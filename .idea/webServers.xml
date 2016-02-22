@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd292bc4-143d-404c-af86-e4e5f539fffe" name="Skole" url="http://regin.wi1.sde.dk">
+        <fileTransfer host="regin.wi1.sde.dk" port="21" password="dfdbdf9ddfc1df99dfcfdff2df9bdf9f" username="regin.wi1">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="12cd724a-3dc9-4341-aefd-30ab7608c645" name="Skole web apps" url="http://regin.wi1.sde.dk">
+        <fileTransfer host="regin.wi1.sde.dk" port="21" password="dfdbdf9ddfc1df99dfcfdff2df9bdf9f" username="regin.wi1">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
