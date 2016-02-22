@@ -2,11 +2,315 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec94f74-3615-4f81-a1a9-f7c4c79f2ca9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/ajax-loader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/icons-18-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/icons-18-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/icons-36-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/icons-36-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/jquery.mobile-1.0.1.css" afterPath="$PROJECT_DIR$/css/jquery.mobile-1.0.1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/jquery.mobile-1.0.1.min.css" afterPath="$PROJECT_DIR$/css/jquery.mobile-1.0.1.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/jquery.mobile.structure-1.0.1.css" afterPath="$PROJECT_DIR$/css/jquery.mobile.structure-1.0.1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/jquery.mobile.structure-1.0.1.min.css" afterPath="$PROJECT_DIR$/css/jquery.mobile.structure-1.0.1.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/_assets/css/jqm-docs.css" afterPath="$PROJECT_DIR$/demos/docs/_assets/css/jqm-docs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/_assets/js/_viewsource.js" afterPath="$PROJECT_DIR$/demos/docs/_assets/js/_viewsource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/_assets/js/jqm-docs.js" afterPath="$PROJECT_DIR$/demos/docs/_assets/js/jqm-docs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/about/accessibility.html" afterPath="$PROJECT_DIR$/demos/docs/about/accessibility.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/about/features.html" afterPath="$PROJECT_DIR$/demos/docs/about/features.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/about/getting-started.html" afterPath="$PROJECT_DIR$/demos/docs/about/getting-started.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/about/index.html" afterPath="$PROJECT_DIR$/demos/docs/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/about/intro.html" afterPath="$PROJECT_DIR$/demos/docs/about/intro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/about/platforms.html" afterPath="$PROJECT_DIR$/demos/docs/about/platforms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/api/data-attributes.html" afterPath="$PROJECT_DIR$/demos/docs/api/data-attributes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/api/events.html" afterPath="$PROJECT_DIR$/demos/docs/api/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/api/globalconfig.html" afterPath="$PROJECT_DIR$/demos/docs/api/globalconfig.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/api/index.html" afterPath="$PROJECT_DIR$/demos/docs/api/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/api/mediahelpers.html" afterPath="$PROJECT_DIR$/demos/docs/api/mediahelpers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/api/methods.html" afterPath="$PROJECT_DIR$/demos/docs/api/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/api/themes.html" afterPath="$PROJECT_DIR$/demos/docs/api/themes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/api-buttons.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/api-buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/buttons-events.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/buttons-events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/buttons-grouped.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/buttons-grouped.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/buttons-icons.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/buttons-icons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/buttons-inline.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/buttons-inline.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/buttons-methods.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/buttons-methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/buttons-options.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/buttons-options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/buttons-themes.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/buttons-themes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/buttons-types.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/buttons-types.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/buttons/index.html" afterPath="$PROJECT_DIR$/demos/docs/buttons/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/dialogTransition.html" afterPath="$PROJECT_DIR$/demos/docs/config/dialogTransition.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/iOSFullscreen.html" afterPath="$PROJECT_DIR$/demos/docs/config/iOSFullscreen.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/index.html" afterPath="$PROJECT_DIR$/demos/docs/config/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/jq17b1.html" afterPath="$PROJECT_DIR$/demos/docs/config/jq17b1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/loadingMessage.html" afterPath="$PROJECT_DIR$/demos/docs/config/loadingMessage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/minScrollBack.html" afterPath="$PROJECT_DIR$/demos/docs/config/minScrollBack.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/pageLoadErrorMessage.html" afterPath="$PROJECT_DIR$/demos/docs/config/pageLoadErrorMessage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/pageTransition.html" afterPath="$PROJECT_DIR$/demos/docs/config/pageTransition.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/pushState.html" afterPath="$PROJECT_DIR$/demos/docs/config/pushState.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/config/touchOverflow.html" afterPath="$PROJECT_DIR$/demos/docs/config/touchOverflow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/content/api-content.html" afterPath="$PROJECT_DIR$/demos/docs/content/api-content.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/content/content-collapsible-set.html" afterPath="$PROJECT_DIR$/demos/docs/content/content-collapsible-set.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/content/content-collapsible.html" afterPath="$PROJECT_DIR$/demos/docs/content/content-collapsible.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/content/content-grids.html" afterPath="$PROJECT_DIR$/demos/docs/content/content-grids.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/content/content-html.html" afterPath="$PROJECT_DIR$/demos/docs/content/content-html.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/content/content-themes.html" afterPath="$PROJECT_DIR$/demos/docs/content/content-themes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/content/index.html" afterPath="$PROJECT_DIR$/demos/docs/content/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/checkboxes/events.html" afterPath="$PROJECT_DIR$/demos/docs/forms/checkboxes/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/checkboxes/index.html" afterPath="$PROJECT_DIR$/demos/docs/forms/checkboxes/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/checkboxes/methods.html" afterPath="$PROJECT_DIR$/demos/docs/forms/checkboxes/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/checkboxes/options.html" afterPath="$PROJECT_DIR$/demos/docs/forms/checkboxes/options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/docs-forms.html" afterPath="$PROJECT_DIR$/demos/docs/forms/docs-forms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/forms-all-native.html" afterPath="$PROJECT_DIR$/demos/docs/forms/forms-all-native.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/forms-all.html" afterPath="$PROJECT_DIR$/demos/docs/forms/forms-all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/forms-sample-response.php" afterPath="$PROJECT_DIR$/demos/docs/forms/forms-sample-response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/forms-sample-selfsubmit.php" afterPath="$PROJECT_DIR$/demos/docs/forms/forms-sample-selfsubmit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/forms-sample.html" afterPath="$PROJECT_DIR$/demos/docs/forms/forms-sample.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/forms-themes.html" afterPath="$PROJECT_DIR$/demos/docs/forms/forms-themes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/index.html" afterPath="$PROJECT_DIR$/demos/docs/forms/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/plugin-eventsmethods.html" afterPath="$PROJECT_DIR$/demos/docs/forms/plugin-eventsmethods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/radiobuttons/events.html" afterPath="$PROJECT_DIR$/demos/docs/forms/radiobuttons/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/radiobuttons/index.html" afterPath="$PROJECT_DIR$/demos/docs/forms/radiobuttons/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/radiobuttons/methods.html" afterPath="$PROJECT_DIR$/demos/docs/forms/radiobuttons/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/radiobuttons/options.html" afterPath="$PROJECT_DIR$/demos/docs/forms/radiobuttons/options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/search/events.html" afterPath="$PROJECT_DIR$/demos/docs/forms/search/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/search/index.html" afterPath="$PROJECT_DIR$/demos/docs/forms/search/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/search/methods.html" afterPath="$PROJECT_DIR$/demos/docs/forms/search/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/search/options.html" afterPath="$PROJECT_DIR$/demos/docs/forms/search/options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/selects/custom.html" afterPath="$PROJECT_DIR$/demos/docs/forms/selects/custom.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/selects/events.html" afterPath="$PROJECT_DIR$/demos/docs/forms/selects/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/selects/index.html" afterPath="$PROJECT_DIR$/demos/docs/forms/selects/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/selects/methods.html" afterPath="$PROJECT_DIR$/demos/docs/forms/selects/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/selects/options.html" afterPath="$PROJECT_DIR$/demos/docs/forms/selects/options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/slider/events.html" afterPath="$PROJECT_DIR$/demos/docs/forms/slider/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/slider/index.html" afterPath="$PROJECT_DIR$/demos/docs/forms/slider/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/slider/methods.html" afterPath="$PROJECT_DIR$/demos/docs/forms/slider/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/slider/options.html" afterPath="$PROJECT_DIR$/demos/docs/forms/slider/options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/switch/events.html" afterPath="$PROJECT_DIR$/demos/docs/forms/switch/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/switch/index.html" afterPath="$PROJECT_DIR$/demos/docs/forms/switch/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/switch/methods.html" afterPath="$PROJECT_DIR$/demos/docs/forms/switch/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/switch/options.html" afterPath="$PROJECT_DIR$/demos/docs/forms/switch/options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/textinputs/events.html" afterPath="$PROJECT_DIR$/demos/docs/forms/textinputs/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/textinputs/index.html" afterPath="$PROJECT_DIR$/demos/docs/forms/textinputs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/textinputs/methods.html" afterPath="$PROJECT_DIR$/demos/docs/forms/textinputs/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/forms/textinputs/options.html" afterPath="$PROJECT_DIR$/demos/docs/forms/textinputs/options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/index.html" afterPath="$PROJECT_DIR$/demos/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/docs-lists.html" afterPath="$PROJECT_DIR$/demos/docs/lists/docs-lists.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/index.html" afterPath="$PROJECT_DIR$/demos/docs/lists/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-all-full.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-all-full.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-count.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-count.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-divider.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-divider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-formatting.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-formatting.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-forms-inset.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-forms-inset.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-forms.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-forms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-icons.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-icons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-inset.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-inset.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-nested.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-nested.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-ol.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-ol.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-performance.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-performance.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-readonly-inset.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-readonly-inset.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-readonly.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-readonly.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-search-filtertext.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-search-filtertext.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-search-inset.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-search-inset.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-search-with-dividers.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-search-with-dividers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-search.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-split-purchase.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-split-purchase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-split.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-split.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-themes.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-themes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-thumbnails.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-thumbnails.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/lists/lists-ul.html" afterPath="$PROJECT_DIR$/demos/docs/lists/lists-ul.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dialog-alt.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dialog-alt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dialog-buttons.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dialog-buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dialog-overlay.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dialog-overlay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dialog-success.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dialog-success.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dialog-with-select.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dialog-with-select.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dialog.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dialog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/docs-links-urltest/index.html" afterPath="$PROJECT_DIR$/demos/docs/pages/docs-links-urltest/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/animals.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/animals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/category.php" afterPath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/colors.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/colors.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/index.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/sample-reuse-page-external.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/sample-reuse-page-external.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/sample-reuse-page.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/sample-reuse-page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/vehicles.html" afterPath="$PROJECT_DIR$/demos/docs/pages/dynamic-samples/vehicles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/index.html" afterPath="$PROJECT_DIR$/demos/docs/pages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/multipage-template.html" afterPath="$PROJECT_DIR$/demos/docs/pages/multipage-template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-anatomy.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-anatomy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-cache.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-cache.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-dialogs.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-dialogs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-dynamic.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-dynamic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-links.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-links.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-navmodel.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-navmodel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-scripting.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-scripting.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-template.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-titles.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-titles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/page-transitions.html" afterPath="$PROJECT_DIR$/demos/docs/pages/page-transitions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/pages-themes.html" afterPath="$PROJECT_DIR$/demos/docs/pages/pages-themes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-a.html" afterPath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-a.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-b.html" afterPath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-b.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-c.html" afterPath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-c.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-d.html" afterPath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-d.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-e.html" afterPath="$PROJECT_DIR$/demos/docs/pages/pages-themes/theme-e.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/phonegap.html" afterPath="$PROJECT_DIR$/demos/docs/pages/phonegap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/touchoverflow.html" afterPath="$PROJECT_DIR$/demos/docs/pages/touchoverflow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/pages/transition-success.html" afterPath="$PROJECT_DIR$/demos/docs/pages/transition-success.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/bars-fixed.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/bars-fixed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/bars-fullscreen.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/bars-fullscreen.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/bars-themes.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/bars-themes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/docs-bars.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/docs-bars.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/docs-footers.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/docs-footers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/docs-headers.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/docs-headers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/docs-navbar.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/docs-navbar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/footer-persist-a.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/footer-persist-a.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/footer-persist-b.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/footer-persist-b.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/footer-persist-c.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/footer-persist-c.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/glyphish-icons/Read me first - license.txt" afterPath="$PROJECT_DIR$/demos/docs/toolbars/glyphish-icons/Read me first - license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/docs/toolbars/index.html" afterPath="$PROJECT_DIR$/demos/docs/toolbars/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/converter/application.js" afterPath="$PROJECT_DIR$/demos/experiments/converter/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/converter/cache.manifest" afterPath="$PROJECT_DIR$/demos/experiments/converter/cache.manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/converter/converter.css" afterPath="$PROJECT_DIR$/demos/experiments/converter/converter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/converter/index.html" afterPath="$PROJECT_DIR$/demos/experiments/converter/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/converter/jquery.tmpl.js" afterPath="$PROJECT_DIR$/demos/experiments/converter/jquery.tmpl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/converter/storage.js" afterPath="$PROJECT_DIR$/demos/experiments/converter/storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/google-maps/index.html" afterPath="$PROJECT_DIR$/demos/experiments/google-maps/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/google-maps/map.html" afterPath="$PROJECT_DIR$/demos/experiments/google-maps/map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/google-maps/map.js" afterPath="$PROJECT_DIR$/demos/experiments/google-maps/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/index.html" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/jquery.easing.1.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/jquery.mobile.scrollview.css" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/jquery.mobile.scrollview.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/jquery.mobile.scrollview.js" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/jquery.mobile.scrollview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/lists-divider.html" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/lists-divider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/scrollview-direction.html" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/scrollview-direction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/scrollview-nested.html" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/scrollview-nested.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/scrollview.js" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/scrollview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/sv-test-01.html" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/sv-test-01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/scrollview/sv-test-02.html" afterPath="$PROJECT_DIR$/demos/experiments/scrollview/sv-test-02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/themeswitcher/jquery.mobile.themeswitcher.js" afterPath="$PROJECT_DIR$/demos/experiments/themeswitcher/jquery.mobile.themeswitcher.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/experiments/weather/index.php" afterPath="$PROJECT_DIR$/demos/experiments/weather/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/external/qunit.css" afterPath="$PROJECT_DIR$/demos/external/qunit.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/external/qunit.js" afterPath="$PROJECT_DIR$/demos/external/qunit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/index.html" afterPath="$PROJECT_DIR$/demos/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/jquery.js" afterPath="$PROJECT_DIR$/demos/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/jquery.mobile-1.0.1.min.css" afterPath="$PROJECT_DIR$/demos/jquery.mobile-1.0.1.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/jquery.mobile-1.0.1.min.js" afterPath="$PROJECT_DIR$/demos/jquery.mobile-1.0.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/functional/addrbar.html" afterPath="$PROJECT_DIR$/demos/tests/functional/addrbar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/functional/eventlogger.html" afterPath="$PROJECT_DIR$/demos/tests/functional/eventlogger.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/functional/gridlayout.html" afterPath="$PROJECT_DIR$/demos/tests/functional/gridlayout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/functional/orientation.html" afterPath="$PROJECT_DIR$/demos/tests/functional/orientation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/jquery.testHelper.js" afterPath="$PROJECT_DIR$/demos/tests/jquery.testHelper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/speed/basic-page.html" afterPath="$PROJECT_DIR$/demos/tests/speed/basic-page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/speed/lists-ul-record.php" afterPath="$PROJECT_DIR$/demos/tests/speed/lists-ul-record.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/speed/lists-ul.html" afterPath="$PROJECT_DIR$/demos/tests/speed/lists-ul.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/speed/stats/index.php" afterPath="$PROJECT_DIR$/demos/tests/speed/stats/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/speed/stats/perf.js" afterPath="$PROJECT_DIR$/demos/tests/speed/stats/perf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/speed/stats/startup.js" afterPath="$PROJECT_DIR$/demos/tests/speed/stats/startup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/speed/stats/visualize/index.html" afterPath="$PROJECT_DIR$/demos/tests/speed/stats/visualize/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/speed/stats/visualize/visualize.css" afterPath="$PROJECT_DIR$/demos/tests/speed/stats/visualize/visualize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/speed/stats/visualize/visualize.js" afterPath="$PROJECT_DIR$/demos/tests/speed/stats/visualize/visualize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/button/button_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/button/button_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/button/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/button/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/buttonMarkup/buttonMarkup_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/buttonMarkup/buttonMarkup_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/buttonMarkup/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/buttonMarkup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/checkboxradio/checkboxradio_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/checkboxradio/checkboxradio_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/checkboxradio/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/checkboxradio/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/collapsible/collapsible_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/collapsible/collapsible_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/collapsible/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/collapsible/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/controlgroup/controlgroup_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/controlgroup/controlgroup_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/controlgroup/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/controlgroup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/core/core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/core/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/core/core_scroll.js" afterPath="$PROJECT_DIR$/demos/tests/unit/core/core_scroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/core/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/core/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/degradeInputs/degradeInputs.js" afterPath="$PROJECT_DIR$/demos/tests/unit/degradeInputs/degradeInputs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/degradeInputs/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/degradeInputs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/dialog/dialog_events.js" afterPath="$PROJECT_DIR$/demos/tests/unit/dialog/dialog_events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/dialog/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/dialog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/event/event_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/event/event_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/event/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/event/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/fieldContain/fieldContain_events.js" afterPath="$PROJECT_DIR$/demos/tests/unit/fieldContain/fieldContain_events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/fieldContain/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/fieldContain/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/index.php" afterPath="$PROJECT_DIR$/demos/tests/unit/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/init/dialog-load-test.html" afterPath="$PROJECT_DIR$/demos/tests/unit/init/dialog-load-test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/init/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/init/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/init/init_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/init/init_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/init/init_core_nopage.js" afterPath="$PROJECT_DIR$/demos/tests/unit/init/init_core_nopage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/init/init_dialog.js" afterPath="$PROJECT_DIR$/demos/tests/unit/init/init_dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/init/nopage.html" afterPath="$PROJECT_DIR$/demos/tests/unit/init/nopage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/jquery.setNameSpace.js" afterPath="$PROJECT_DIR$/demos/tests/unit/jquery.setNameSpace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/listview/cache-tests/cached-nested.html" afterPath="$PROJECT_DIR$/demos/tests/unit/listview/cache-tests/cached-nested.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/listview/cache-tests/clear.html" afterPath="$PROJECT_DIR$/demos/tests/unit/listview/cache-tests/clear.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/listview/cache-tests/uncached-nested.html" afterPath="$PROJECT_DIR$/demos/tests/unit/listview/cache-tests/uncached-nested.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/listview/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/listview/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/listview/listview_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/listview/listview_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/listview/listview_pushstate.js" afterPath="$PROJECT_DIR$/demos/tests/unit/listview/listview_pushstate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/listview/pushstate-tests.html" afterPath="$PROJECT_DIR$/demos/tests/unit/listview/pushstate-tests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/ls.php" afterPath="$PROJECT_DIR$/demos/tests/unit/ls.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/media/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/media/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/media/media_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/media/media_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navbar/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navbar/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navbar/navbar_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/navbar/navbar_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests/app-base/base-page-1.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests/app-base/base-page-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests/app-base/base-page-2.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests/app-base/base-page-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests/content/content-page-1.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests/content/content-page-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests/content/content-page-2.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/base-tests/content/content-page-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/cached-external.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/cached-external.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/data-url.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/data-url.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/nested.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/nested.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/non-data-url.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/non-data-url.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/reverse-attr.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/reverse-attr.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/single-quotes.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/data-url-tests/single-quotes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/dialog-param-test/dialog-param.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/dialog-param-test/dialog-param.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/external.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/external.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/file.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/file.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/form-tests/changepage-data.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/form-tests/changepage-data.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/form-tests/form-no-action.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/form-tests/form-no-action.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_base.js" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_dialog_pushstate.js" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_dialog_pushstate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_helpers.js" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_paths.js" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_paths.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_transitions.js" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/navigation_transitions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/file.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/file.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/parent-ref.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/parent-ref.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/parent/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/parent/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/sub-dir/file.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/sub-dir/file.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/sub-dir/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/path-tests/sub-dir/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/prefetched-dialog.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/prefetched-dialog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/prefetched.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/prefetched.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/push-state-dialog-tests.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/push-state-dialog-tests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/push-state-disabled-base-tests.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/push-state-disabled-base-tests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/push-state-disabled-tests.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/push-state-disabled-tests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/title1.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/title1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/title2.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/title2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/navigation/title3.html" afterPath="$PROJECT_DIR$/demos/tests/unit/navigation/title3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/page-sections/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/page-sections/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/page-sections/page_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/page-sections/page_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/page/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/page/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/page/page_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/page/page_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/runner.js" afterPath="$PROJECT_DIR$/demos/tests/unit/runner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/cached-dom-cache-true.html" afterPath="$PROJECT_DIR$/demos/tests/unit/select/cached-dom-cache-true.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/cached-tests.html" afterPath="$PROJECT_DIR$/demos/tests/unit/select/cached-tests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/cached.html" afterPath="$PROJECT_DIR$/demos/tests/unit/select/cached.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/select/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/select_cached.js" afterPath="$PROJECT_DIR$/demos/tests/unit/select/select_cached.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/select_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/select/select_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/select_events.js" afterPath="$PROJECT_DIR$/demos/tests/unit/select/select_events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/select_native.js" afterPath="$PROJECT_DIR$/demos/tests/unit/select/select_native.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/suite.html" afterPath="$PROJECT_DIR$/demos/tests/unit/select/suite.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/select/uncached-dom-cached-false.html" afterPath="$PROJECT_DIR$/demos/tests/unit/select/uncached-dom-cached-false.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/slider/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/slider/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/slider/slider_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/slider/slider_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/slider/slider_events.js" afterPath="$PROJECT_DIR$/demos/tests/unit/slider/slider_events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/support/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/support/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/support/support_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/support/support_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/swarminject.js" afterPath="$PROJECT_DIR$/demos/tests/unit/swarminject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/textinput/external.html" afterPath="$PROJECT_DIR$/demos/tests/unit/textinput/external.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/textinput/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/textinput/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/textinput/textinput_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/textinput/textinput_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/widget/index.html" afterPath="$PROJECT_DIR$/demos/tests/unit/widget/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/widget/widget_core.js" afterPath="$PROJECT_DIR$/demos/tests/unit/widget/widget_core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demos/tests/unit/widget/widget_init.js" afterPath="$PROJECT_DIR$/demos/tests/unit/widget/widget_init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-1.6.4.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.6.4.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.mobile-1.0.1.js" afterPath="$PROJECT_DIR$/js/jquery.mobile-1.0.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.mobile-1.0.1.min.js" afterPath="$PROJECT_DIR$/js/jquery.mobile-1.0.1.min.js" />
     </list>
     <ignored path="FirstApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +335,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43738317">
-              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.61139894">
+              <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.8518518">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -53,6 +367,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -67,10 +383,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
-    <option name="y" value="23" />
-    <option name="width" value="1121" />
-    <option name="height" value="945" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -97,6 +413,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -139,13 +456,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -155,6 +485,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -205,27 +536,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="23" width="1121" height="945" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31222123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31185943" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -244,6 +575,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -281,14 +620,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/LV5BBD1IYZ.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8518518">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73839664">
+          <caret line="14" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43738317">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.61139894">
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
           <folding />
         </state>
       </provider>
